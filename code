@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Hey AI, Guess This Problom</h2>
+<p>This Website is a test</p>
+<p>you caan ask it a question in the console in dev tools!</p>
+<p>1234567890 - 696969 + 987324982734982374987398574985897345 - 999999999999</p>
+<!-- it will guess the question! -->
+<script>
+document.write ("1234567890 - 696969 + 987324982734982374987398574985897345 - 999999999999 = ");
+document.write(1234567890 - 696969 + 74987398574985897345 - 999999999999 = );
+</script>
+
+</body>
+</html> 
